@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"Fargo","classId":1,"equips":[0,0,0,0,0,null,null,51,null,51],"faceIndex":0,"faceName":"Fargo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Фарго","nickname":"Охотник","note":"","profile":"Фарго - молодой охотник\nживущий в доме на берегу озера"}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Fargo_nudeskin","classId":1,"equips":[0,0,0,0,0,null,null,51,null,51],"faceIndex":0,"faceName":"Fargo_nude","traits":[],"initialLevel":1,"maxLevel":99,"name":"Фарго","nickname":"Охотник","note":"","profile":"Фарго - молодой охотник\nживущий в доме на берегу озера"}
 ]
